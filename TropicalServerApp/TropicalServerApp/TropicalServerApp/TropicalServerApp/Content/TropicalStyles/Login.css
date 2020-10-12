@@ -1,0 +1,205 @@
+﻿body 
+{
+	margin:10px auto;
+	padding:0;
+	width:980px;
+	height:100%;
+	background-color:#CCCCCC;
+}
+#bodyLogin {
+    margin: 10px auto;
+    padding: 0;
+    width: 980px;
+    height: 750px;
+    background-color: #CCCCCC;
+}
+#header
+{
+	margin:0;
+	padding:0;
+	width:980px;
+	
+}  
+#container
+{
+    margin-top:0;
+    padding-top:10px;
+    width:980px;
+    height:600px;
+    background-color:#FFFFFF;
+}
+#BodyDetail
+{
+	height: 300px;
+	width: 400px;
+	margin:100px auto;
+	background-color: #FF6600;
+	color: #FFFFFF;
+	padding: 10px;
+}
+
+
+.Loginlbl
+{
+	font-size:25px;
+	color:White;
+	font-family:Calibri;
+}
+
+
+.loginBox { /*Center vertically and horizontally*/
+	position: absolute;
+	top: 30%;
+	left: 25%;
+	margin: -25px 0 0 -25px; /*apply negative top and left to truly center the element*/
+	
+	height: 260px;
+	width: 40%;
+	background-color: #FF8C00;
+}
+
+
+.smallBox {
+	position:relative;
+
+	background-color: #FFCC00;
+} 
+
+.footer {
+	position:relative;
+	top:80%;
+}
+	#errorBox 
+{
+    text-align:center;
+    width:420px;
+    margin:10px auto;
+}
+
+#errorlbl 
+{
+	font-size: 16px;
+	font-family: Calibri;
+	color: Red;
+}
+
+
+
+.useridlbl {
+    color: White;
+    font-family: Calibri;
+    font-size: 16pt;
+    margin-left: 20px;
+}
+
+.passwordlbl
+{
+	color:White;
+	font-family:Calibri;
+	font-size:16pt;
+	margin-left:20px;
+}
+
+.useridtextbox
+{
+	/*width:250px;*/
+	width:200px;
+	margin-top: 50px;
+	margin-left: 24px;
+}
+
+.passwordtextbox {
+	/*width:250px;*/
+	width: 200px;
+	margin-top: 29px;
+	margin-left: 13px;
+}
+
+/*.login 
+{
+    margin-top:30px;
+    text-align:center;
+}*/
+.remember {
+	font-size: 13px;
+	margin-left: 50px;
+	color:white;
+}
+.loginButton
+{
+	margin-left: 160px;
+	background-color: black;
+	border: none;
+	color: white;
+	display: inline;
+	font-size:13px;
+
+}
+
+#forgot
+{
+	text-align:center;
+	margin-top:15px;
+}
+
+.forgotPassword
+{
+	font-family: Calibri;
+	font-size: 16px;
+	text-decoration: underline;
+	color: white;
+	margin-left:140px;
+}
+.forgotUsername
+{
+	font-family: calibri;
+	font-size: 16px;
+	text-decoration: underline;
+	color:white;
+	margin-left:60px;
+}
+
+#emailIDlbl
+{
+    margin-left:20px;
+	color: #FFFFFF;
+	font-family: Calibri;
+	font-size: 20px;
+}
+
+#emailIDtextbox
+{
+    width:260px;
+	margin-left: 15px; 
+	margin-top: 50px;
+}
+
+#usernamelbl
+{
+    margin-left:20px;
+	color:White;
+	font-family:Calibri;
+	font-size:20px;
+}
+
+#usernametextbox
+{
+    width:245px;
+	margin-left: 15px;
+	margin-top: 50px;
+}
+
+#LoginBtn_1 {
+    color: White;
+    font-family: Calibri;
+    font-size: 9px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    width:80px;
+    font-weight:bold;
+    text-align: center;
+}
+#myFirstID {
+    color: red;
+}

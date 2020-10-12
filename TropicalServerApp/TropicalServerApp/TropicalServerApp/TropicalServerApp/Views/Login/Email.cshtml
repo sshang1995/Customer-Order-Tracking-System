@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - TropicalServer</title>
+    <link rel="stylesheet" href="~/Content/TropicalStyles/Email.css">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="main">
+        <div class="imageDisplay">
+            <img height="100" src="@Url.Content("~/Images/Header.jpg")" />
+
+        </div>
+
+        <div class="email">
+
+            <label for="email">Email</label>
+            <input type="text" name="email" />
+            <input type="submit" value="send email" />
+        </div>
+
+        <div class="footer">
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
+        </div>
+    </div>
+
+
+</body>
+</html>

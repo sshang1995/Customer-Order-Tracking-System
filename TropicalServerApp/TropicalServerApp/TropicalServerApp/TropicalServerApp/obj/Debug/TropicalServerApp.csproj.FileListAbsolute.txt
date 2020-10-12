@@ -1,0 +1,312 @@
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.dll.config
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.pdb
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.exe
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.exe.config
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.rsp
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.exe
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.exe.config
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.rsp
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.AppContext.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Collections.Immutable.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Console.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Compression.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.FileSystem.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Pipes.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Reflection.Metadata.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.AccessControl.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Claims.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.ValueTuple.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XPath.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.exe
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.exe.config
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.rsp
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\VBCSCompiler.exe
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\roslyn\VBCSCompiler.exe.config
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\Antlr3.Runtime.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\Microsoft.Web.Infrastructure.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\Newtonsoft.Json.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.Helpers.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.Mvc.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.Optimization.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.Razor.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Deployment.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Razor.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\WebGrease.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.Helpers.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.Mvc.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.Optimization.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.Razor.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Deployment.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Razor.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\Newtonsoft.Json.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\Antlr3.Runtime.pdb
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csprojAssemblyReference.cache
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csproj.CoreCompileInputs.cache
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csproj.CopyComplete
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.pdb
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.dll.config
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.pdb
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.exe
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.exe.config
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.rsp
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.exe
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.exe.config
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.rsp
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.AppContext.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Collections.Immutable.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Console.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Compression.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.FileSystem.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Pipes.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Reflection.Metadata.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.AccessControl.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Claims.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.ValueTuple.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XPath.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.exe
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.exe.config
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.rsp
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\VBCSCompiler.exe
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\VBCSCompiler.exe.config
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Antlr3.Runtime.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Microsoft.Web.Infrastructure.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Newtonsoft.Json.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Helpers.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Mvc.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Optimization.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Razor.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Deployment.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Razor.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\WebGrease.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Helpers.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Mvc.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Optimization.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Razor.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Deployment.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Razor.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Newtonsoft.Json.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Antlr3.Runtime.pdb
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csprojAssemblyReference.cache
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csproj.CoreCompileInputs.cache
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csproj.CopyComplete
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.dll
+G:\Materials\Day 20(ASP.NET MVC)\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.pdb
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.dll.config
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.pdb
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.exe
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.exe.config
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.rsp
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.exe
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.exe.config
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.rsp
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.AppContext.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Console.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.exe
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.exe.config
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.rsp
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Antlr3.Runtime.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Newtonsoft.Json.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Helpers.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Mvc.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Optimization.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Razor.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServer.BLL.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\WebGrease.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServer.DAL.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServer.BLL.pdb
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Helpers.xml
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Mvc.xml
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Optimization.xml
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Razor.xml
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.xml
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Newtonsoft.Json.xml
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Antlr3.Runtime.pdb
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServer.DAL.pdb
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csprojAssemblyReference.cache
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csproj.CopyComplete
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.dll
+C:\Users\Asel\Desktop\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.pdb
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.dll.config
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServerApp.pdb
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.exe
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.exe.config
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csc.rsp
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.exe
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.exe.config
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\csi.rsp
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.AppContext.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Console.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.exe
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.exe.config
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\vbc.rsp
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Antlr3.Runtime.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Newtonsoft.Json.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Helpers.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Mvc.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Optimization.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Razor.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServer.BLL.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\WebGrease.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServer.DAL.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServer.BLL.pdb
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Helpers.xml
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Mvc.xml
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Optimization.xml
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.Razor.xml
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.xml
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Newtonsoft.Json.xml
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Antlr3.Runtime.pdb
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\bin\TropicalServer.DAL.pdb
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csprojAssemblyReference.cache
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.csproj.CopyComplete
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.dll
+C:\Users\Shu\Downloads\TropicalServerApp2\TropicalServerApp\TropicalServerApp\TropicalServerApp\TropicalServerApp\obj\Debug\TropicalServerApp.pdb

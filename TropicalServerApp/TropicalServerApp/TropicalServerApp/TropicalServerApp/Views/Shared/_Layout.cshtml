@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - TropicalServer</title>
+    <link rel="stylesheet" href="~/Content/TropicalStyles/Site.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="~/Scripts/main.js"></script>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+@*<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>*@
+<body >
+
+          
+
+    <div class="container">
+       
+        <div class="main">
+
+            <div class="imageDisplay">
+                <img height="100" src="@Url.Content("~/Images/Header.jpg")" />
+                
+                    <nav style="background-color:#FBB917; border:none" class="navbar navbar-default">
+                        <div  style="background-color:#FBB917" class="container-fluid">
+                            <div id="menuItem">
+                                <ul class="nav navbar-nav">
+                                    <li class="active">@Html.ActionLink("Product", "Product", "Product")</li>
+                                    <li>@Html.ActionLink("Orders", "Orders", "Product")</li>
+                                    <li>@Html.ActionLink("Route", "Route", "Product")</li>
+                                    <li>@Html.ActionLink("Stop SEQN", "Stop", "Product")</li>
+                                    <li>@Html.ActionLink("Message Center", "Message", "Product")</li>
+                                    <li>@Html.ActionLink("Reports", "Reports", "Product")</li>
+                                </ul>
+                 
+                                <input type="button" id="logout" value="Log out" style=" background-color: #3a4f63; color: white; width: 10%; padding: 4px; margin-left: 70px;"/>
+                            </div>
+                           
+                        </div>
+                    </nav>
+                    
+
+            </div>
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
+        </div>
+
+    </div>     
+    
+
+
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

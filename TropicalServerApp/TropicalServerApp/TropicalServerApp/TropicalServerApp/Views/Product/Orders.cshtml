@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "Orders";
+}
+<title>@ViewBag.Title - TropicalServer</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+@*<script src="~/Scripts/main.js"></script> This is already included*@
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+<link rel="stylesheet" href="~/Content/TropicalStyles/Orders.css" />
+<h2>Orders</h2>
+<form id="CriteriaBar" class="Criteria">
+
+    <label class="label" id="orderdate" , for="orderdate">Order Date: </label>
+    <input class="Input" list="date" id="datetext" name="orderdate" />
+    <datalist id="date">
+        <option value="Today"></option>
+        <option value="Last 7 Days"></option>
+        <option value="Last 1 Month"></option>
+        <option value="Last 6 Months"></option>
+    </datalist>
+
+    <label class="label" id="customerID" for="customerID">Customer ID: </label>
+    <input class="Input" type="text" id="customerIDtext" name="customerID" />
+
+    <label class="label" id="customerName" , for="customerName">Customer Name: </label>
+    <input class="Input" type="text" id="customerNametext" name="customerName" />
+
+    <label class="label" id="salesManager" , for="salesManager">Sales Manager: </label>
+    <input class="Input" list="manager" id="managertext" name="salesManager" />
+    <datalist id="manager">
+        <option value="Andy"></option>
+        <option value="Anupam"></option>
+        <option value="Chee"></option>
+        <option value="Hitesh"></option>
+        <option value="Nii"></option>
+    </datalist>
+    <input class="Input" type="button" value="Go" id="filterdata" />
+
+
+</form>
+<br />
+<table id="data" class="gvOrders">
+    <thead>
+        <tr>
+            <th>Tracking#</th>
+            <th>Order Date</th>
+            <th>Customer ID</th>
+            <th>Customer Name</th>
+            <th>Address</th>
+            <th>Route#</th>
+            <th>Available Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>

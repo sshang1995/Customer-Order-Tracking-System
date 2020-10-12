@@ -1,0 +1,119 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - TropicalServer</title>
+    <link rel="stylesheet" href="~/Content/TropicalStyles/Login.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+    <script src="~/Scripts/main.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+@*<body>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
+        </div>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>*@
+<body>
+
+
+
+    <div class="container">
+
+        <div class="main">
+
+            <div class="imageDisplay">
+                <img height="100" src="@Url.Content("~/Images/Header.jpg")" />
+
+            </div>
+
+
+
+            <div class="loginBox">
+                @*Login Box  Here *@
+
+                <label class="Loginlbl">Mobile Customer Order Tracking</label>
+
+                <div class="smallBox">
+                    <form >
+                        <label class="useridlbl" for="loginID"> Login ID:  </label>
+                        <input type="text" id="textUserID" name="loginID" class="useridtextbox" />
+                        <br />
+
+                        <label class="passwordlbl" for="password"> Password:  </label>
+                        <input type="password" id="textPassword" name="password" class="passwordtextbox" />
+                        <br />
+                        <br />
+                        <label class="remember" for="remember"> Remember my Id  </label>
+                        <input type="checkbox" id ="rememberme" name="remember" />
+
+                        <input type="button" class="loginButton" Value="Log-in"  />
+                        <br />
+                    </form>
+                </div>
+                <br />
+
+
+
+                <a class="forgotUsername" href="\Login\Email"> Forgot Username </a>
+
+
+                <a class="forgotPassword" href="\Login\Email"> Forgot Password</a>
+
+
+            </div>
+        
+            <hr />
+            <div class="footer">
+                <footer>
+                    <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+                </footer>
+            </div>
+        </div>
+
+    </div>
+
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+   
+</body>
+
+
+</html>
