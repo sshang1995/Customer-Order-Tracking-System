@@ -1,7 +1,7 @@
 # Customer-Order-Tracking-System
 Click here to see the video https://youtu.be/hxhvJ4xqOcY
 
-Creating customer order tracking system using ASP.Net, MVC, C#, SQL. For user interface using HTML, CSS, Jquery.
+Creating customer order tracking system using ASP.Net, MVC, C#, SQL. For user interface using HTML, CSS, Javascript, Jquery.
 
 1. Database (Microsoft SQL Server Database)
 - Building database in SQL server. 
