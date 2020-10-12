@@ -14,5 +14,5 @@ Creating customer order tracking system using ASP.Net, MVC, C#, SQL. For user in
 
 3. Order Page
 - Searching orders by inserting search conditions.
-- implementing view, edit, delete functions for each order.
+- Implementing view, edit, delete functions for each order.
 
